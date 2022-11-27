@@ -6,9 +6,16 @@
 </div>
  
 <div align="center">
-  <h1>Tecnologias Usadas</h1>
+  <h1>Linguagens e Ferramentas</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python,git,vscode,">
+  </p>
+</div>
+
+<div align="center">
+  <h1>Aprendendo</h1>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,php,mysql,">
   </p>
 </div>
 
