@@ -1,7 +1,8 @@
 ## <p align="center"> Luan Santos </p>
-<div align="center">
-  <img align="center" margin-bottom="30px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Santos-Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Santos-Dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Santos-Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Santos-Dev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
  
 <div align="center">
