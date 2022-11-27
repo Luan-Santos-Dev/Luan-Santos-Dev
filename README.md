@@ -1,16 +1,14 @@
-### Hi there 👋
+## <p align="center"> Luan Santos </p>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Santos-Dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Santos-Dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+ 
+<div align="center">
+  <h1>Tecnologias Usadas</h1>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python">
+  </p>
+</div>
 
-<!--
-**Luan-Santos-Dev/Luan-Santos-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Luan-Santos-Dev/Luan-Santos-Dev/blob/output/github-contribution-grid-snake.svg)
