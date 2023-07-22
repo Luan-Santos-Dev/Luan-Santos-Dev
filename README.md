@@ -14,4 +14,3 @@
   </p>
 </div>
 
-![Snake animation](https://github.com/Luan-Santos-Dev/Luan-Santos-Dev/blob/output/github-contribution-grid-snake.svg)
