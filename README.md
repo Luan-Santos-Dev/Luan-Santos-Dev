@@ -10,7 +10,7 @@
 <div align="center">
   <h1>Aprendendo</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react">
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs">
   </p>
 </div>
 
