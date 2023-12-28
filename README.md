@@ -1,6 +1,6 @@
 ## <p align="center">Hello World! 👋🇧🇷</p>
 
-- **Desenvolvedor Full Stack** experiente🌐
+- **Desenvolvedor Full Stack** 🌐
 - Atualmente estudando Desenvolvimento Mobile📱
 
 ## Tecnologias 📌
