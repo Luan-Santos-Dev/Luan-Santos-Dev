@@ -17,3 +17,9 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/wordpress%20%20-0078d7.svg?style=for-the-badge&logo=wordpress&logoColor=white">
 </div>
+
+## Aprendendo sobre:
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,kubernetes,docker&theme=light">
+</div>
